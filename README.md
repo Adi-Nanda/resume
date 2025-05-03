@@ -1,2 +1,2 @@
 # resume
-Aditya Nanda digital resume
+## Aditya Nanda digital resume
